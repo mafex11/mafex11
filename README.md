@@ -31,9 +31,9 @@
     <span style="margin-left: 8px; color: #000;">sudhanshuk1140@gmail.com</span>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://sudhanshupandit.com" target="_blank">
+  <a href="hisudhanshu.vercel.app" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=84648&format=png&color=FDFDFD" alt="Website" height="30" width="30" />
-    <span style="margin-left: 8px; color: #000;">hisudhanshu.vercel.app</span>
+    <span style="margin-left: 8px; color: #000;">Portfolio</span>
   </a>
 </p>
 
