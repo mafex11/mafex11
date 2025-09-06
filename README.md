@@ -14,13 +14,13 @@
 <h3 align="center">Follow me</h3>
 <p align="center">
   <a href="https://twitter.com/mafexuwu" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=FDFDFD" alt="Twitter/X" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=FDFDFD" alt="Twitter/X" height="50" width="50" />
   </a>
   <a href="https://linkedin.com/in/sudhanshu-pandit-17a126240/" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=FDFDFD" alt="LinkedIn" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=FDFDFD" alt="LinkedIn" height="50" width="50" />
   </a>
  <a href="https://www.leetcode.com/mafex" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=S22n5FcHWTiO&format=png&color=FDFDFD" alt="LeetCode" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=S22n5FcHWTiO&format=png&color=FDFDFD" alt="LeetCode" height="50" width="50" />
   </a>
 </p>
 
