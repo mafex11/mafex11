@@ -24,6 +24,19 @@
   </a>
 </p>
 
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  <a href="mailto:sudhanshupandit.official@gmail.com">
+    <img align="center" src="https://img.icons8.com/?size=100&id=12623&format=png&color=FDFDFD" alt="Email" height="30" width="30" />
+    <span style="margin-left: 8px; color: #000;">sudhanshuk1140@gmail.com</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://sudhanshupandit.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=84648&format=png&color=FDFDFD" alt="Website" height="30" width="30" />
+    <span style="margin-left: 8px; color: #000;">hisudhanshu.vercel.app</span>
+  </a>
+</p>
+
 <!-- <h2 align="left">Languages</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" alt="HTML5" height="40" width="40" style="filter: invert(0%);" title="HTML5"/>
