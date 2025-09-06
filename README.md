@@ -1,4 +1,4 @@
-<img src="ascii-art.png"/>
+<img src="ascii-art2.png"/>
 <h1 align="center">Hi 👋, I'm Sudhanshu Pandit</h1>
 <h3 align="center">Software engineer and freelance from india</h3>
 
