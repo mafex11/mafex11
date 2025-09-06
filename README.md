@@ -37,6 +37,14 @@
   </a>
 </p>
 
+<p align="center" style="margin-top: 20px;">
+  <a href="https://paypal.me/paymafex" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20ramen-🍜-orange?style=for-the-badge&logo=paypal" alt="Buy me a ramen" style="height:30px; width:auto;"/>
+  </a>
+</p>
+
+
+
 <!-- <h2 align="left">Languages</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" alt="HTML5" height="40" width="40" style="filter: invert(0%);" title="HTML5"/>
