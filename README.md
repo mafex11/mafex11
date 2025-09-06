@@ -14,15 +14,16 @@
 <h3 align="center">Follow me</h3>
 <p align="center">
   <a href="https://twitter.com/mafexuwu" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="Twitter/X" height="30" width="40" style="filter: brightness(0) invert(1);" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="Twitter/X" height="30" width="40" style="filter: invert(100%);" />
   </a>
   <a href="https://linkedin.com/in/sudhanshu-pandit-17a126240/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="filter: brightness(0) invert(1);" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(100%);" />
   </a>
   <a href="https://www.leetcode.com/mafex" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" alt="LeetCode" height="30" width="40" style="filter: brightness(0) invert(1);" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" alt="LeetCode" height="30" width="40" style="filter: invert(100%);" />
   </a>
 </p>
+
 
 <!-- Languages -->
 <h2 align="left">Languages</h2>
