@@ -14,28 +14,37 @@
 ## Currently Building (Contributions open)
 **[LLM-OS](https://github.com/mafex11/LLM-OS)** – Hands-free (No keyboard or Mouse (Literally)) access to your OS on command. Think of it as a safe and privacy-focused JARVIS for your PC.  
 
-## Check out Previous projects
+## Check out Previous Projects
+
 ### Failed Startup
-- **[Assignmoto](https://www.assignmoto.com/)** – My failed startup, but an incredible learning experience in building and scaling from scratch.  
+**[Assignmoto](https://www.assignmoto.com/)** – My failed startup, but an incredible learning experience in building and scaling from scratch.  
 
 ### Developer Tools
-- **[Cpycoder](https://cpycoder.vercel.app/)** – A VS Code extension I built to copy files and directories, making it easier to provide context to LLMs.  
+**[Cpycoder](https://cpycoder.vercel.app/)** – A VS Code extension I built to copy files and directories, making it easier to provide context to LLMs.  
 
 ### Client Work
-- **[Nerve ](https://nerve-landing-page.vercel.app/)** – A modern landing page designed and deployed for a client.
-- **[Business Room](https://businessroom.ai/)** – Built the entire platform: developed responsive frontends, optimized load times, implemented an AI-powered Ideas Board, and managed deployment with Amazon EC2 & S3.  
+**[Nerve](https://nerve-landing-page.vercel.app/)** – A modern landing page designed and deployed for a client.  
+
+**[BusinessRoom](https://businessroom.ai/)** – Built the entire platform, developed responsive frontends, optimized load times, implemented an AI-powered Ideas Board, and managed deployment with Amazon EC2 & S3.  
 
 ### AI Projects
-- **[LimboAI](https://limboai.vercel.app/)** – My own AI platform for productivity. It can generate code with syntax highlighting, create tables, images, and even perform real-time search in chat history.  
-- **[SiteWish](https://github.com/mafex11/SiteWish)** – A complete AI-powered website builder (similar to Lovable). Backend isn’t deployed, but check out the repo.  
-- **[Flowaistudy](https://flowaistudy.vercel.app/)** – An AI research paper generator. It builds research papers based on recent studies, auto-adding references and citations (covers ~85% of a paper).  
+**[LimboAI](https://limboai.vercel.app/)** – My own AI platform for productivity. It can generate code with syntax highlighting, create tables, images, and even perform real-time search in chat history.  
+
+**[SiteWish](https://github.com/mafex11/SiteWish)** – A complete AI-powered website builder (similar to Lovable). Backend isn’t deployed, but check out the repo.  
+
+**[Flowaistudy](https://flowaistudy.vercel.app/)** – An AI research paper generator. It builds research papers based on recent studies, auto-adding references and citations (covers ~85% of a paper).  
 
 ### Personal Projects
-- **[Portfolio](https://hisudhanshu.vercel.app/)** – My personal portfolio website.  
-- **[FusionMail](https://fusionmail.vercel.app/)** – A Chrome extension to manage multiple Gmail accounts in one place (saved me 2GB+ RAM from having too many tabs).  
-- **[WhoopsAI](https://whoopsai.vercel.app/)** – A WhatsApp bot that replies automatically, tracks events, and schedules meetings to maximize focus.
-- **[Sotion](http://sotion-snowy.vercel.app/)** – A Notion-like note-taking and productivity app.  
-- **[SendRN](https://sendrn.vercel.app/)** – QR code–based file sharing platform for instant inter-device file transfer without login or delay.
+**[Portfolio](https://hisudhanshu.vercel.app/)** – My personal portfolio website.  
+
+**[FusionMail](https://fusionmail.vercel.app/)** – A Chrome extension to manage multiple Gmail accounts in one place (saved me 2GB+ RAM from having too many tabs).  
+
+**[WhoopsAI](https://whoopsai.vercel.app/)** – A WhatsApp bot that replies automatically, tracks events, and schedules meetings to maximize focus.  
+
+**[Sotion](http://sotion-snowy.vercel.app/)** – A Notion-like note-taking and productivity app.  
+
+**[SendRN](https://sendrn.vercel.app/)** – QR code–based file sharing platform for instant inter-device file transfer without login or delay.  
+
 
 <h3 align="center">Follow me</h3>
 <p align="center">
