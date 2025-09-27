@@ -16,10 +16,10 @@
 
 ## Check out Previous projects
 ### Failed Startup
-- **[Assignmoto](Assignmoto.com)** – My failed startup, but an incredible learning experience in building and scaling from scratch.  
+- **[Assignmoto](https://www.assignmoto.com/)** – My failed startup, but an incredible learning experience in building and scaling from scratch.  
 
 ### Developer Tools
-- **[Cpycoder](https://cpycode.vercel.app/)** – A VS Code extension I built to copy files and directories, making it easier to provide context to LLMs.  
+- **[Cpycoder](https://cpycoder.vercel.app/)** – A VS Code extension I built to copy files and directories, making it easier to provide context to LLMs.  
 
 ### Client Work
 - **[Nerve ](https://nerve-landing-page.vercel.app/)** – A modern landing page designed and deployed for a client.
