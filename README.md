@@ -10,10 +10,11 @@
 <img src="https://img.shields.io/badge/Open%20Source-Yes-000000" alt="Open Source" />
 <img src="https://img.shields.io/badge/Contributions-Welcome-000000" alt="Contributions Welcome" />
 </p>
+## Currently Building
+**[LLM-OS](https://github.com/mafex11/LLM-OS)** – Hands-free (No keyboard or Mouse (Literally)) access to your OS on command. Think of it as a safe and privacy-focused JARVIS for your PC.  
 
 ## Check out some of my projects
-
-### Startup Experiments
+### Failed Startup
 - **[Assignmoto](Assignmoto.com)** – My failed startup, but an incredible learning experience in building and scaling from scratch.  
 
 ### Developer Tools
@@ -33,10 +34,7 @@
 - **[FusionMail](https://fusionmail.vercel.app/)** – A Chrome extension to manage multiple Gmail accounts in one place (saved me 2GB+ RAM from having too many tabs).  
 - **[WhoopsAI](https://whoopsai.vercel.app/)** – A WhatsApp bot that replies automatically, tracks events, and schedules meetings to maximize focus.
 - **[Sotion](http://sotion-snowy.vercel.app/)** – A Notion-like note-taking and productivity app.  
-- **[SendRN](https://sendrn.vercel.app/)** – QR code–based file sharing platform for instant inter-device file transfer without login or delay.  
-
-
-
+- **[SendRN](https://sendrn.vercel.app/)** – QR code–based file sharing platform for instant inter-device file transfer without login or delay.
 
 <h3 align="center">Follow me</h3>
 <p align="center">
