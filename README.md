@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Open%20Source-Yes-000000" alt="Open Source" />
 <img src="https://img.shields.io/badge/Contributions-Welcome-000000" alt="Contributions Welcome" />
 </p>
-asd
+gfhtj
 ## Currently Building (Contributions open)
 **[LLM-OS](https://github.com/mafex11/LLM-OS)** – Hands-free (No keyboard or Mouse (Literally)) access to your OS on command. Think of it as a safe and privacy-focused JARVIS for your PC.  
 
