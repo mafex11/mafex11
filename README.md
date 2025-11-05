@@ -48,7 +48,7 @@
 
 <h3 align="center">Follow me</h3>
 <p align="center">
-  <a href="https://twitter.com/mafexuwu" target="_blank">
+  <a href="https://twitter.com/devmafex" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=FDFDFD" alt="Twitter/X" height="50" width="50" />
   </a>
   <a href="https://linkedin.com/in/sudhanshu-pandit-17a126240/" target="_blank">
