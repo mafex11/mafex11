@@ -1,5 +1,4 @@
 <div align="center"><img src="banner3.jpg"/></div>
-
 <h1 align="center" style="font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: normal; color:rgb(0, 0, 0);">Hi, I'm Sudhanshu</h1>
 <h3 align="center" style="font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: normal; color:rgb(0, 0, 0);">SDE1 & AI Automations and Agents Developer</h3>
 
@@ -44,7 +43,7 @@
 **[Sotion](http://sotion-snowy.vercel.app/)** – A Notion-like note-taking and productivity app.  
 
 **[SendRN](https://sendrn.vercel.app/)** – QR code–based file sharing platform for instant inter-device file transfer without login or delay.  
-
+<div align="center"><img src="github-timeline-mafex11-1769669724813.png"/></div>
 
 <h3 align="center">Follow me</h3>
 <p align="center">
