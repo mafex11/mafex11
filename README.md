@@ -11,7 +11,13 @@
 </p>
 
 ## Currently Building (Contributions open)
-**[LLM-OS](https://github.com/mafex11/LLM-OS)** – Hands-free (No keyboard or Mouse (Literally)) access to your OS on command. Think of it as a safe and privacy-focused JARVIS for your PC.  
+**[Yuki](https://github.com/mafex11/yuki-mac-use)** – A macOS agent that controls your Mac for you. Hands-free, on-device automation of native apps and the desktop.  
+
+**[Burnt](https://github.com/mafex11/Burnt)** – A native macOS menu bar app that tracks your Claude Code & Codex token usage and cost — glanceable, self-contained, one `brew install`.  
+
+**[Netflix Auto-Skip](https://github.com/mafex11/auto-skip-everything-netflix)** – A tiny Chrome extension that auto-clicks Skip Intro, Skip Recap, Next Episode, and "Are You Still Watching?" so your binge never breaks rhythm. No accounts, no servers, no tracking.  
+
+**[Git-Schedule](https://github.com/mafex11/Git-Schedule)** – Schedule git commits for later — like delayed send for your code. A CLI + daemon that fires your commits at the time you set.  
 
 ## Check out Previous Projects
 
