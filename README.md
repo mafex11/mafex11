@@ -11,7 +11,7 @@
 </p>
 
 ## Currently Building (Contributions open)
-**[Yuki](https://yukiai.vercel.app)** – AI assistant ([repo](https://github.com/mafex11/yukiai)).  
+**[Yuki for Windows (LLM-OS)](https://github.com/mafex11/LLM-OS)** – Hands-free (No keyboard or Mouse (Literally)) access to your OS on command. Think of it as a safe and privacy-focused JARVIS for your PC.  
 
 **[Yuki for macOS](https://github.com/mafex11/yuki-mac-use)** – A macOS agent that controls your Mac for you. Hands-free, on-device automation of native apps and the desktop.  
 
