@@ -11,7 +11,9 @@
 </p>
 
 ## Currently Building (Contributions open)
-**[Yuki](https://github.com/mafex11/yuki-mac-use)** – A macOS agent that controls your Mac for you. Hands-free, on-device automation of native apps and the desktop.  
+**[Yuki](https://yukiai.vercel.app)** – AI assistant ([repo](https://github.com/mafex11/yukiai)).  
+
+**[Yuki for macOS](https://github.com/mafex11/yuki-mac-use)** – A macOS agent that controls your Mac for you. Hands-free, on-device automation of native apps and the desktop.  
 
 **[Burnt](https://github.com/mafex11/Burnt)** – A native macOS menu bar app that tracks your Claude Code & Codex token usage and cost — glanceable, self-contained, one `brew install`.  
 
