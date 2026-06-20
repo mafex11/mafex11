@@ -2,7 +2,7 @@
 <h1 align="center" style="font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: normal; color:rgb(0, 0, 0);">Hi, I'm Sudhanshu</h1>
 <h3 align="center" style="font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: normal; color:rgb(0, 0, 0);">SDE1 & AI Automations and Agents Developer</h3>
 
-<div align="center"><img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-68-denji-shows-peace-sign-acegif.gif" width="200"/></div>
+<div align="center"><img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-68-denji-shows-peace-sign-acegif.gif" width="350"/></div>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mafex11&label=Profile%20views&color=000000&style=flat" alt="mafex11" />
