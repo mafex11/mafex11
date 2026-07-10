@@ -1,6 +1,6 @@
 <div align="center"><img src="banner3.jpg"/></div>
 <h1 align="center" style="font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: normal; color:rgb(0, 0, 0);">Hi, I'm Sudhanshu</h1>
-<h3 align="center" style="font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: normal; color:rgb(0, 0, 0);">SDE1 & AI Automations and Agents Developer</h3>
+<h3 align="center" style="font-family: 'Segoe UI', 'Arial', sans-serif; font-weight: normal; color:rgb(0, 0, 0);">Founding Engineer & AI Automations and Agents Developer</h3>
 
 <div align="center"><img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-68-denji-shows-peace-sign-acegif.gif" width="500"/></div>
 
