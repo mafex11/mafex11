@@ -13,8 +13,6 @@
 </p>
 
 ## Currently Building (Contributions open)
-**[Mox](https://github.com/mafex11/Mox-Voice-Agent)** – A real-time AI voice agent that sounds human by splitting cognition across two LLMs: a fast Talker on the audio path (Deepgram STT → Cartesia TTS over WebRTC) and a slower Thinker that reasons and retrieves out of band, coordinated by a streaming marker protocol so speech never stalls. In-process RAG (Voyage + Milvus + FlashRank), built on Pipecat.  
-
 **[MaxMi](https://github.com/mafex11/MaxMi)** – A native macOS menu bar app that passively builds an ambient memory of what you read, stores it locally with on-device vector search (GRDB + sqlite-vec, AES-256-GCM at rest), and exposes it to Claude over MCP.  
 
 **[ShipCast](https://github.com/mafex11/Shipcast)** – A release pipeline for Mac apps. A Swift CLI that builds, signs, notarizes, and publishes to GitHub Releases + Homebrew + Sparkle, with an optional hosted service for update feeds. Your certs never leave your machine.  
